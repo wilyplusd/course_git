@@ -1,0 +1,4 @@
+**/*.sys
+**/Thumbs.db
+**/.DS_Store
+
